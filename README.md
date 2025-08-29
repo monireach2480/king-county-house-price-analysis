@@ -157,11 +157,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@yourusername](https://github.com/monireach2480)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/len-monireach/)
 
-## 🙏 Acknowledgments
-
+## 🙏 Acknowledgment
 - IBM Developer Skills Network for the original dataset and problem framework
 - King County, Washington for providing the housing data
 - Scikit-learn community for excellent machine learning tools
